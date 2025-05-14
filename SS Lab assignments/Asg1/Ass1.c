@@ -5,7 +5,7 @@ int main()
 int a=10;
 float b=9.0;
 int mul=a*b;
-string name="sakshiaware31@gmail.com";
+string name="nikita1234gmail.com";
 printf("\nFloat value is:%f",b);
 printf("\nInteger value is:%d",a);
 printf("\nAddition is :%d",a+a);
